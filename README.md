@@ -15,7 +15,7 @@ MySQL(Mariadb) Database
 Installation
 Clone the repository:
 
-git clone https://github.com/abhijeetadarsh/schooldb.git
+git clone https://github.com/Letusgithub/database-application-school-management-system-
 Install dependencies:
 
 cd schooldb/backend
